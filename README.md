@@ -14,5 +14,13 @@ Etant donné que fichier de sauvegarde a été téléchargé, il est possible de
 
 Vous pouvez certes modifier les données de votre personnnage mais il est recommandé d'effectuer les modifcations via l'application afin d'éviter les possibles perturbations du fichier et ainsi ne plus pouvoir charger votre personnage.
 
-<span style="color : red"></span>
+
+3. Modules
+
+Dans l'application, il y a plusieurs sous-parties que j'appellerai les modules qui sont au nombre de 7.
+
+- L'Affichage Général (Sidebar de Gauche) : Ce module permet d'avoir les statistiques générales du personnage affichées en permancance, de permettre la naviagation vers les différents modules restants, d'appliquer sur l'application le theme sombre ou encore de charger et sauvegarder toutes les données de votre personnage dans un fichier.
+- L'Acceuil (Hub) : Ce module permet la modification des caractéristiques principales de votre personnage.
+- L'Inventaire : Ce module permet la modification de l'inventaire de votre personnage ainsi que toutes les caractéristiques des items contenus dans cet inventaire.
+
 
