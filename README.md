@@ -22,5 +22,23 @@ Dans l'application, il y a plusieurs sous-parties que j'appellerai les modules q
 - L'Affichage Général (Sidebar de Gauche) : Ce module permet d'avoir les statistiques générales du personnage affichées en permancance, de permettre la naviagation vers les différents modules restants, d'appliquer sur l'application le theme sombre ou encore de charger et sauvegarder toutes les données de votre personnage dans un fichier.
 - L'Acceuil (Hub) : Ce module permet la modification des caractéristiques principales de votre personnage.
 - L'Inventaire : Ce module permet la modification de l'inventaire de votre personnage ainsi que toutes les caractéristiques des items contenus dans cet inventaire.
+- Les Compétences : Ce module permet de manager les compétences de votre personnage ainsi que de les utiliser (consommation de ressource définie à savoir aucune ressource, pv uniquement, pm uniquement, pv et pm)
+- Les Familiers : Module à implémenter quand nous aurons une idée claire du systeme
+- Les Affinités : Ce module est un affichage plus sympa de l'avancée de vos affinités
+- Le Calcul de dégats : Ce module est fonctionnel mais il manque encore de quelques travaux pour qu'il puisse etre modulable et propre à chacun
+
+4. Fonctionnalités des Modules
+
+Cette partie est réservée à l'utilisation de chacun des modules. Nous allons donc réutiliser l'ordre de présentation pour ne pas vous perdre.
+
+- L'Affichage Général (Sidebar de Gauche) : 
+    *   Charger / Sauvegarder ses données :
+            Cette action nécéssite deux clics, le premier sur le bouton "Charger / Sauvegarder" qui débloquera les deux options suivantes
+- L'Acceuil (Hub) : Ce module permet la modification des caractéristiques principales de votre personnage.
+- L'Inventaire : Ce module permet la modification de l'inventaire de votre personnage ainsi que toutes les caractéristiques des items contenus dans cet inventaire.
+- Les Compétences : Ce module permet de manager les compétences de votre personnage ainsi que de les utiliser (consommation de ressource définie à savoir aucune ressource, pv uniquement, pm uniquement, pv et pm)
+- Les Familiers : Module à implémenter quand nous aurons une idée claire du systeme
+- Les Affinités : Ce module est un affichage plus sympa de l'avancée de vos affinités
+- Le Calcul de dégats : Ce module est fonctionnel mais il manque encore de quelques travaux pour qu'il puisse etre modulable et propre à chacun
 
 
