@@ -65,13 +65,12 @@ Cette partie est réservée à l'utilisation de chacun des modules. Nous allons 
 
 - L'Affichage Général (Sidebar de Gauche) : 
     *   Charger / Sauvegarder ses données :
-            Cette action nécéssite deux clics, le premier sur le bouton "Charger / Sauvegarder"
+            Cette action nécéssite deux clics, le premier sur le bouton "Charger / Sauvegarder" qui débloquera les deux options suivantes :
             
-            ![image](https://user-images.githubusercontent.com/58788952/176605374-61a582d5-3491-499c-b806-d95441d74074.png)
+           ![image](https://user-images.githubusercontent.com/58788952/176605374-61a582d5-3491-499c-b806-d95441d74074.png)
             
-            qui débloquera les deux options suivantes :
-            
-            ![image](https://user-images.githubusercontent.com/58788952/176605487-c3cc10be-71c5-4063-8801-2b4a50dd1174.png)
+           ![image](https://user-images.githubusercontent.com/58788952/176605487-c3cc10be-71c5-4063-8801-2b4a50dd1174.png)
+    *       
 
 - L'Acceuil (Hub) : Ce module permet la modification des caractéristiques principales de votre personnage.
 - L'Inventaire : Ce module permet la modification de l'inventaire de votre personnage ainsi que toutes les caractéristiques des items contenus dans cet inventaire.
