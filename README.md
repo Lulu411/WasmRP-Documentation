@@ -27,7 +27,7 @@ Ce module permet d'avoir les statistiques générales du personnage affichées e
 
 - L'Acceuil (Hub) : 
 
-![image](https://user-images.githubusercontent.com/58788952/176604744-fc9081f8-2fe9-45b1-b1af-576e8c8231da.png)
+![image](hubGeneral.png)
 
 Ce module permet la modification des caractéristiques principales de votre personnage.
 
