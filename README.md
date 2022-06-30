@@ -70,7 +70,22 @@ Cette partie est réservée à l'utilisation de chacun des modules. Nous allons 
            ![image](https://user-images.githubusercontent.com/58788952/176605374-61a582d5-3491-499c-b806-d95441d74074.png)
             
            ![image](https://user-images.githubusercontent.com/58788952/176605487-c3cc10be-71c5-4063-8801-2b4a50dd1174.png)
-    *       
+    *   Se déplacer dans les différents modules :
+        
+        ![image](genDisplayLiens.png)
+
+        Il suffit de cliquer sur l'un de ces boutons. Passer votre souris dessus vous indiquera vers quel module il vous emmenera.
+    
+    *   Appliquer le Dark Mode :
+
+        ![image](genDisplayDM.png)
+
+        Cliquer sur le bouton activera ou désactivera le Dark Mode.
+    * Reset le Compteur de Tour :
+
+        ![image](genDisplayCompteurTours.png)
+
+        Il faut double-cliquer sur le texte pour reset le compteur.
 
 - L'Acceuil (Hub) : Ce module permet la modification des caractéristiques principales de votre personnage.
 - L'Inventaire : Ce module permet la modification de l'inventaire de votre personnage ainsi que toutes les caractéristiques des items contenus dans cet inventaire.
