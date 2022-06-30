@@ -70,6 +70,8 @@ Cette partie est réservée à l'utilisation de chacun des modules. Nous allons 
            ![image](https://user-images.githubusercontent.com/58788952/176605374-61a582d5-3491-499c-b806-d95441d74074.png)
             
            ![image](https://user-images.githubusercontent.com/58788952/176605487-c3cc10be-71c5-4063-8801-2b4a50dd1174.png)
+
+           🛑 **De plus, vous pouvez sauvegarder votre personnage depuis la vision de n'importe quel module, par contre, le chargement de votre personnage n'est permis que lorsque vous avez la vision sur le Hub.** 🛑
     *   Se déplacer dans les différents modules :
         
         ![image](genDisplayLiens.png)
@@ -87,8 +89,33 @@ Cette partie est réservée à l'utilisation de chacun des modules. Nous allons 
 
         Il faut double-cliquer sur le texte pour reset le compteur.
 
-- L'Acceuil (Hub) : Ce module permet la modification des caractéristiques principales de votre personnage.
-- L'Inventaire : Ce module permet la modification de l'inventaire de votre personnage ainsi que toutes les caractéristiques des items contenus dans cet inventaire.
+- L'Acceuil (Hub) : 
+
+    *   Il n'est plus possible de modifier l'armure physique et l'armure magique car ces dernières sont maintenant calculées automatiquement en fonction de l'armure portée par votre personnage.
+
+    *   Il n'est plus possible de modifier la quantité de piece d'or, de piece d'argent et de piece de cuivre de façon générale puisque cette fonctionnalité a été déplacée aux containers (espace d'inventaire permettant le stockage d'item)
+
+    *   Lorsque des items de type Accessoire ou Armure sont équipés, ils apparaissent dans l'emplacement **Equipement** de la manière suivante : 
+
+    ![image](hubGear.png)
+
+    *   Lorsque des items de type Arme, Arme de Jet, Chargeur, Consommable sont équipés, ils apparaissent dans l'emplacement **Inventaire Rapide** de la manière suivante : 
+
+    ![image](hubFastInv.png)
+
+    * Ces emplacements servent généralement d'affichage de certaines caractériques et permettent parfois, selon le type d'item, d'effectuer une action particuliere telle que modifier l'emplacement d'un item, consommer une potion ou bien tirer un projectile. 
+    
+    Sinon toutes les autres caractéristiques sont modifiables et répercutées dans l'Affichage Général.
+
+
+- L'Inventaire : 
+    *   Il est possible de créer des containers avec un nom et une capacité modifiés.
+    *   Il est possible de supprimer les containers en les sélectionnant au préalable.
+    *   Il est possible de créer jusque 5 containers maximum.
+    *   Le container nommé Inventaire Personnage est permanent. Il ne peut etre supprimé.
+    *   Pour sélectionner un container, il suffit de cliquer sur son emplacement. Une fois sélectionné, le fond de l'emplacement passe en couleur orange.
+    *   Pour ouvrir un container et voir ce qu'il contient, double-cliquez sur l'emplacement du container.
+    *   
 - Les Compétences : Ce module permet de manager les compétences de votre personnage ainsi que de les utiliser (consommation de ressource définie à savoir aucune ressource, pv uniquement, pm uniquement, pv et pm)
 - Les Familiers : Module à implémenter quand nous aurons une idée claire du systeme
 - Les Affinités : Ce module est un affichage plus sympa de l'avancée de vos affinités
