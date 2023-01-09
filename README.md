@@ -122,3 +122,6 @@ Cette partie est réservée à l'utilisation de chacun des modules. Nous allons 
 - Le Calcul de dégats : Ce module est fonctionnel mais il manque encore de quelques travaux pour qu'il puisse etre modulable et propre à chacun
 
 
+
+<span style="color: blue">TEST COULEUR</span>
+
